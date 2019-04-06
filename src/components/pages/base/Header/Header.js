@@ -7,8 +7,8 @@ const Header = () => {
             <div className="ui fixed inverted menu">
                 <div className="ui container">
                     <a href=" #" className="header item">
-                        <i className="fab fa-pied-piper-alt app-logo"></i>
-                           React App
+                        <i className="fas fa-hamburger"></i>
+                           Restaurant App
                     </a>
                     {/*<a href=" #" className="item">Home</a>*/}
                     {/*<div className="ui simple dropdown item">*/}

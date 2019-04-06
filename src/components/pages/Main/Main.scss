@@ -1,4 +1,9 @@
+@import './BusinessList/BusinessList';
+
 .app-main {
   min-height: 89vh;
-  margin-top: 7rem;
+  padding-top: 6rem;
+  max-width: 80vw;
+  display: block;
+  margin: 0 auto;
 }
